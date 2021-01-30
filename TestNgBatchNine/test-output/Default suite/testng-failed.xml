@@ -5,7 +5,7 @@
     <classes>
       <class name="com.testng.batchNine.MaximoLogin">
         <methods>
-          <include name="MaximoCreateLocation"/>
+          <include name="RegistrationSuccessful"/>
         </methods>
       </class> <!-- com.testng.batchNine.MaximoLogin -->
     </classes>
